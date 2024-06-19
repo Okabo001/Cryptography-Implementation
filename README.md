@@ -24,5 +24,5 @@ This project aims to develop a Network Monitoring and Intrusion Detection System
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-ids.git
+   git clone https://github.com/Okabo001/network-ids.git
    cd network-ids
